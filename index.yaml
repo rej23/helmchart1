@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webcicd:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-07T10:57:41.10929Z"
+    description: A Helm chart for Kubernetes
+    digest: 39b23a226dac9ad227262df94a46665f7e5adf11a4320f71ba86bbb1a4fd4b2e
+    name: webcicd
+    type: application
+    urls:
+    - https://rej23.github.io/helmchart1/webcicd-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-07T10:57:41.10834Z"
